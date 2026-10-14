@@ -32,16 +32,16 @@ Abaixo esta um exemplo de consulta realizada ao modelo e as evidências de valid
 ### Pergunta 1: *"Qual é a principal diferença entre funções puras e impuras, e por que a imutabilidade é importante na programação funcional?"*
 * **Resposta do Notebook:** A diferença entre uma função pura e impura, está na sua saída e no seu impacto externo. Já em relação a imutabilidade, sua importância se dá na Previsibilidade e Ausência de Efeitos Colaterais e na Facilidade para Testes e Manutenção, e entre outros.   
 * **Link das Fontes Citadas:**
-  *https://youtu.be/7mVVIayE7A8?si=qH9qqspWXIhczpzA*
-  *https://youtu.be/yktYimHJGj8?si=tByOUxj4P00QPtgu*
-  *https://www.alura.com.br/artigos/programacao-funcional-o-que-e*
-  *https://youtu.be/BxbHGPivjdc?si=Lx-Tn_7gzijUeqaq*  
-* **Evidência:** *![Citação no Gemini Notebook](imagens/chat-citacao-1.png)*
+1. *https://youtu.be/7mVVIayE7A8?si=qH9qqspWXIhczpzA*
+2. *https://youtu.be/yktYimHJGj8?si=tByOUxj4P00QPtgu*
+3. *https://www.alura.com.br/artigos/programacao-funcional-o-que-e*
+4. *https://youtu.be/BxbHGPivjdc?si=Lx-Tn_7gzijUeqaq*  
+* **Evidência:** *![Citação no Gemini Notebook](materiais/chat-citacao-1.png)*
 
 ---
 
 ## 🔗 Link do Notebook Compartilhado
-* https://notebook.google.com/notebook/c5602583-04bf-49bf-b04e-356da3ba3202/preview 
+*https://notebook.google.com/notebook/cf78f99b-a582-4ca4-99e0-f1c1b1912f83/preview* 
 
 ---
 
